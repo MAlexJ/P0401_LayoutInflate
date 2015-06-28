@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P0401_LayoutInflate</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="linear_layout">Linear Layout:</string>
+    <string name="relative_layout">Relative Layout:</string>
+    <string name="text_adapter">Layout with TextView</string>
+</resources>
